@@ -1,5 +1,5 @@
 let head = React.createElement(
-  "h1",
+  "p",
   { id: "declarative" },
   "Hello World! : Declarative"
 );
